@@ -1,0 +1,15 @@
+header nav {
+    background-color: grey;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    color: orange;
+}
+
+span {
+    color: red;
+}
